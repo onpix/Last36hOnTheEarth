@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "fa56057e-3069-4682-becf-6e270dcec312",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "回收机损坏": {
+      "ver": "1.0.4",
+      "uuid": "c33c44e0-6244-412c-b953-390dd701730a",
+      "rawTextureUuid": "fa56057e-3069-4682-becf-6e270dcec312",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16,
+      "offsetY": 0,
+      "trimX": 40,
+      "trimY": 8,
+      "width": 428,
+      "height": 508,
+      "rawWidth": 476,
+      "rawHeight": 524,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b89cef0c-6e56-42be-a6dd-df8f298dd6f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "铲子_icon": {
+      "ver": "1.0.4",
+      "uuid": "ac7d80a9-6cf0-4597-a439-61c923d0ab89",
+      "rawTextureUuid": "b89cef0c-6e56-42be-a6dd-df8f298dd6f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 130,
+      "rawWidth": 130,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b7f42d6e-bcfb-40ee-b675-e80c90e141b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "肥料_icon": {
+      "ver": "1.0.4",
+      "uuid": "db6b00fc-935f-49d0-98a4-d2c247c49101",
+      "rawTextureUuid": "b7f42d6e-bcfb-40ee-b675-e80c90e141b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 130,
+      "rawWidth": 130,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0e59d5e1-1e51-4c17-ac17-25f4f1327267",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "回收机": {
+      "ver": "1.0.4",
+      "uuid": "8d866486-5052-4e2b-9a7e-d04196466a99",
+      "rawTextureUuid": "0e59d5e1-1e51-4c17-ac17-25f4f1327267",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 12,
+      "offsetY": 2,
+      "trimX": 28,
+      "trimY": 0,
+      "width": 428,
+      "height": 616,
+      "rawWidth": 460,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

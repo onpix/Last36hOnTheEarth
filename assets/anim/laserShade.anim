@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laserShade",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 200,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.25,
+          "value": 130
+        }
+      ]
+    }
+  },
+  "events": []
+}

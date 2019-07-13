@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "player-mask-shade",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.75,
+          "value": 215
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          },
+          "curve": "linear"
+        },
+        {
+          "frame": 0.75,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.05,
+            "y": 1.05
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

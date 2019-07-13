@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "db04cdda-e03c-4bf7-904f-4c64640c4f9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "加工台": {
+      "ver": "1.0.4",
+      "uuid": "ec49b19d-02fd-4c89-807f-8c6abf4c5c12",
+      "rawTextureUuid": "db04cdda-e03c-4bf7-904f-4c64640c4f9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 142.5,
+      "offsetY": -3,
+      "trimX": 339,
+      "trimY": 63,
+      "width": 732,
+      "height": 330,
+      "rawWidth": 1125,
+      "rawHeight": 450,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

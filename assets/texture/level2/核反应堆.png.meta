@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "a5113336-22e0-46f4-bea2-34c20442ea98",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "核反应堆": {
+      "ver": "1.0.4",
+      "uuid": "c2a5fead-9de6-4f4b-abe0-353f9f3d4134",
+      "rawTextureUuid": "a5113336-22e0-46f4-bea2-34c20442ea98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11,
+      "offsetY": -1,
+      "trimX": 6,
+      "trimY": 8,
+      "width": 126,
+      "height": 246,
+      "rawWidth": 160,
+      "rawHeight": 260,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

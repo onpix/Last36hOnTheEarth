@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "twink",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 200,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

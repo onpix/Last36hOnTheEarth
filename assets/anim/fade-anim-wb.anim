@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fade-anim-wb",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

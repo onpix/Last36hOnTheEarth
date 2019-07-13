@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eagleShade",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 100
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 20
+        }
+      ]
+    }
+  },
+  "events": []
+}

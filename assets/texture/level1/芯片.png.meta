@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "d97cd0d7-0964-4ca3-81ac-8339759f5025",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "芯片": {
+      "ver": "1.0.4",
+      "uuid": "092084f9-083c-46d3-b57a-e92c8faf8976",
+      "rawTextureUuid": "d97cd0d7-0964-4ca3-81ac-8339759f5025",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 54,
+      "height": 21,
+      "rawWidth": 60,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

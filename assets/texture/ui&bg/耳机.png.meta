@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "d67f6796-496b-4d16-bc5e-fa34a734ea8c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "耳机": {
+      "ver": "1.0.4",
+      "uuid": "33d7022f-b900-4ceb-84ef-89cec2a15663",
+      "rawTextureUuid": "d67f6796-496b-4d16-bc5e-fa34a734ea8c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 60,
+      "height": 48,
+      "rawWidth": 60,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

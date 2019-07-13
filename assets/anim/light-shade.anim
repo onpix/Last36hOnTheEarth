@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "light-shade",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 20,
+  "speed": 4.4,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 60
+        },
+        {
+          "frame": 0.45,
+          "value": 30
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        },
+        {
+          "frame": 0.75,
+          "value": 70
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": -4.64
+        },
+        {
+          "frame": 0.3,
+          "value": 0
+        },
+        {
+          "frame": 0.6,
+          "value": 4
+        },
+        {
+          "frame": 0.8,
+          "value": -3
+        }
+      ]
+    }
+  },
+  "events": []
+}

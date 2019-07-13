@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "风扇旋转",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "af7ea255-c515-4f96-b1f3-06b23e8d24e3"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "aa7b6418-f6f3-43d4-801a-cfd86996dfcc"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e936d19c-aa3d-4704-a5c2-2b87b7c1e267"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "037c6a81-8add-4a60-b0ac-914812f9be07"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "af7ea255-c515-4f96-b1f3-06b23e8d24e3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

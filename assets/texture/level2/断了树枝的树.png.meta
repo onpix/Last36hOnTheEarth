@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b8307b94-9f84-4422-a9ab-d5b9b68b1002",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "断了树枝的树": {
+      "ver": "1.0.4",
+      "uuid": "2097ec1b-7526-43d6-aec8-d23244aa038e",
+      "rawTextureUuid": "b8307b94-9f84-4422-a9ab-d5b9b68b1002",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 177,
+      "rawWidth": 181,
+      "rawHeight": 177,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

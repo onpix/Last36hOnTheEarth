@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "飞船浮动",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 226.397
+        },
+        {
+          "frame": 0.25,
+          "value": 210
+        },
+        {
+          "frame": 0.5,
+          "value": 204.136
+        }
+      ]
+    }
+  },
+  "events": []
+}

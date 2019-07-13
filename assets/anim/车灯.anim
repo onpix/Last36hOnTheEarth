@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "车灯",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 1.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 80,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 30
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "staff_mov",
+  "_objFlags": 0,
+  "url": "",
+  "_native": "",
+  "_duration": 4.883333333333334,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -1289.439
+        },
+        {
+          "frame": 4.883333333333334,
+          "value": 1297.306
+        }
+      ]
+    }
+  },
+  "events": []
+}
